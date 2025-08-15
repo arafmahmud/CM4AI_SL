@@ -1,8 +1,10 @@
+
 # 🧬 Biological Explainable SL-VNN
 
 **A biologically-constrained Visual Neural Network for explainable synthetic lethality prediction**
 
 ## 📊 Overview
+![alt text](./results/ATM_ATR_dendrogram.png)
 
 This repository contains a working explainable AI model for predicting synthetic lethality between gene pairs using real biological pathway constraints. The model integrates Cell Maps hierarchical data to provide interpretable predictions with biological explanations.
 
@@ -127,9 +129,7 @@ cellmaps_vnn/
 4. **Explainable AI**: Clear biological reasoning for each prediction
 5. **Hierarchical Visualization**: Dendrogram framework for pathway explanation
 
-## 🔍 For Detailed Analysis
 
-See `docs/FINAL_EXPLAINABILITY_REPORT.md` for comprehensive technical details, biological validation, and explainability analysis.
 
 ---
 
